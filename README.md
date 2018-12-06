@@ -46,3 +46,12 @@
   * SickOS (1 and 2)
 * **[HackTheBox](https://www.hackthebox.eu)**
   * Bashed
+  * Popcorn
+  * Shocker
+  * Blue
+  * Bank
+  * Jeeves
+  * Tartarsauce
+  * Grandpa
+  * Granny
+  * CronOS

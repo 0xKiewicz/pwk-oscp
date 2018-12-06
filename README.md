@@ -12,7 +12,7 @@
 |:smirk_cat: Privesc|
 |:arrow_upper_right: Resources|
 
-
+----- 
 #### :book: How to Become a Pentester
 * [How to Become a Pentester - TrustedSec](https://www.trustedsec.com/2018/09/become-a-pentester)
 * [How to Become a Pentester - Corelan](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
@@ -27,6 +27,22 @@
 
 #### :broken_heart: Vulnerable Machines
 * **[VulnHub](https://www.vulnhub.com)**
-  * Kioptrix
+  * GoldenEye
+  * Lampiao
+  * Raven (1 and 2)
+  * Wintermute
+  * Tr0ll (1 and 2)
+  * W1r3s
+  * Lord of the Root
+  * DerpnStink
+  * Kioptrix (1 through 5)
+  * FristiLeaks
+  * Stapler
+  * Pwnlab init
+  * BrainPan (_BoF!_)
+  * VulnOS 2
+  * IMF
+  * SkyTower
+  * SickOS (1 and 2)
 * **[HackTheBox](https://www.hackthebox.eu)**
   * Bashed

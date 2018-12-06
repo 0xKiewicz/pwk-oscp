@@ -55,3 +55,8 @@
   * Grandpa
   * Granny
   * CronOS
+
+#### :pencil: Enumeration
+
+#### :arrow_upper_right: Resources
+* [IPPsec videos](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)

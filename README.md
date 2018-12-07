@@ -66,7 +66,8 @@
 * **Overthewire**
   * [Wargames](http://overthewire.org/wargames/)
 
-#### :pencil: Enumeration
+#### :pencil: Enumeration & Exploitation
+  * [Common Ports](https://github.com/0xKiewicz/pwk-oscp/blob/master/enum-exploitation.md)
 
 #### :smirk_cat: Privesc
 > First try the simplest:
@@ -90,5 +91,5 @@
 
 #### :arrow_upper_right: Resources
 * [ippsec videos](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
-* [OSCP userful links - backdoorshell](https://backdoorshell.gitbooks.io/oscp-useful-links/content/)
+* [OSCP useful links - backdoorshell](https://backdoorshell.gitbooks.io/oscp-useful-links/content/)
 * [Default passwords](https://cirt.net)

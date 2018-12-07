@@ -17,15 +17,17 @@
 * [How to Become a Pentester - TrustedSec](https://www.trustedsec.com/2018/09/become-a-pentester)
 * [How to Become a Pentester - Corelan](https://www.corelan.be/index.php/2015/10/13/how-to-become-a-pentester/)
 
+
 #### :books: Books
 * [Network Security Assessment - O'Reilly](https://www.oreilly.com/library/view/network-security-assessment/9781491911044/)
 * [Penetration Testing - NoStarch](https://nostarch.com/pentesting)
+* [Total OSCP Guide - sushant747](https://sushant747.gitbooks.io/total-oscp-guide/content/bash-scripting.html)
 
 #### :page_facing_up: Certifications
 * [eJPT](https://www.elearnsecurity.com/course/penetration_testing_student/)
 * [eCPPT](https://www.elearnsecurity.com/course/penetration_testing/)
 
-#### :broken_heart: Vulnerable Machines
+#### :broken_heart: Vulnerable Machines/Challenges
 * **[VulnHub](https://www.vulnhub.com)**
   * GoldenEye
   * Lampiao
@@ -55,8 +57,15 @@
   * Grandpa
   * Granny
   * CronOS
+* **Pentester Academy**
+  * [AttackDefense](https://attackdefense.com)
+* **PentesterLab**
+  * [PentesterLab](https://www.pentesterlab.com)
+* **Root-me**
+  * [Root-me](https://www.root-me.org)
 
 #### :pencil: Enumeration
 
 #### :arrow_upper_right: Resources
-* [IPPsec videos](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+* [ippsec videos](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+* [OSCP userful links - backdoorshell](https://backdoorshell.gitbooks.io/oscp-useful-links/content/)

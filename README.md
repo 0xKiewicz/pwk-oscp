@@ -86,7 +86,7 @@
   * [fuzzysecurity](http://www.fuzzysecurity.com/tutorials/16.html)
   * [tim3warri0r](http://tim3warri0r.blogspot.com/)
 * **Both**
-  * [[Metasploit] post/multi/recon/local_exploit_suggester](post/multi/recon/local_exploit_suggester
+  * [[Metasploit] post/multi/recon/local_exploit_suggester](post/multi/recon/local_exploit_suggester)
 
 #### :arrow_upper_right: Resources
 * [ippsec videos](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)

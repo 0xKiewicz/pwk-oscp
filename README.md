@@ -66,7 +66,7 @@
 * **Overthewire**
   * [Wargames](http://overthewire.org/wargames/)
 
-#### :pencil: Enumeration & Exploitation
+#### :pencil: Enumeration & :bomb: Exploitation
   * [Common Ports](https://github.com/0xKiewicz/pwk-oscp/blob/master/enum-exploitation.md)
 
 #### :smirk_cat: Privesc

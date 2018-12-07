@@ -63,9 +63,32 @@
   * [PentesterLab](https://www.pentesterlab.com)
 * **Root-me**
   * [Root-me](https://www.root-me.org)
+* **Overthewire**
+  * [Wargames](http://overthewire.org/wargames/)
 
 #### :pencil: Enumeration
+
+#### :smirk_cat: Privesc
+> First try the simplest:
+> * Reuse password for other users
+> * Enter user's name as password too
+> * ``sudo -l``
+> * ``find / -perm -4000 -type f 2>/dev/null``
+* **Linux**
+  * [[script] LinEnum](http://www.rebootuser.com/?p=1758)
+  * [[script] LinuxPrivChecker](http://www.securitysift.com/download/linuxprivchecker.py)
+  * [GTFobins](https://gtfobins.github.io/)
+  * [g0tmilk](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
+* **Windows**  
+  * [[script] Windows-Exploit-Suggester](https://github.com/GDSSecurity/Windows-Exploit-Suggester/blob/master/windows-exploit-suggester.py)
+  * [absolomb](https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/)
+  * [guif.re](https://guif.re/windowseop)
+  * [fuzzysecurity](http://www.fuzzysecurity.com/tutorials/16.html)
+  * [tim3warri0r](http://tim3warri0r.blogspot.com/)
+* **Both**
+  * [[Metasploit] post/multi/recon/local_exploit_suggester](post/multi/recon/local_exploit_suggester
 
 #### :arrow_upper_right: Resources
 * [ippsec videos](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 * [OSCP userful links - backdoorshell](https://backdoorshell.gitbooks.io/oscp-useful-links/content/)
+* [Default passwords](https://cirt.net)
